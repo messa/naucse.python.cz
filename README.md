@@ -129,3 +129,4 @@ When contributing new document(s) a license must be specified in the metadata.
 
 [LICENSE.MIT]: https://github.com/pyvec/naucse.python.cz/blob/master/LICENSE.MIT
 [free content licenses]: https://en.wikipedia.org/wiki/List_of_free_content_licenses
+Ahoj Veroniko

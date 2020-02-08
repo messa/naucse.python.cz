@@ -1,3 +1,5 @@
+Veronika test 2
+
 # Nauč se Python
 
 Otevřené materiály pro výuku Pythonu – jak na organizovaných kurzech,
